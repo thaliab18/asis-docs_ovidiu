@@ -1,8 +1,11 @@
 title: ASiS-docs
 description: Starter for ASiS product documentation
-remote_theme: just-the-docs
+theme: just-the-docs
 
 url: https://ovidiuchis.github.io/asis-docs/
 
 aux_links:
   Template Repository: https://github.com/ovidiuchis/asis-docs
+
+plugins:
+  - jekyll-default-layout
