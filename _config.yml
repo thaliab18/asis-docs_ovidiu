@@ -6,6 +6,3 @@ url: https://ovidiuchis.github.io/asis-docs/
 
 aux_links:
   Template Repository: https://github.com/ovidiuchis/asis-docs
-
-plugins:
-  - jekyll-default-layout
