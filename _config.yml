@@ -3,8 +3,10 @@ description: Documentatie produs ASiSerp
 theme: just-the-docs
 search_enabled: true
 search.rel_url: false
+favicon_ico: "/assets/favicon.ico"
+logo: "/assets/logo.png"
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://asw.ro
