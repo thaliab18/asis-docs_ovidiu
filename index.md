@@ -1,6 +1,7 @@
 ---
-title: Home
+title: Prima pagina
 layout: home
+nav_order: 1
 ---
 
 Aici vor fi alte lucruri
