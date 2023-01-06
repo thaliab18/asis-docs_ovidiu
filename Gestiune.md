@@ -12,5 +12,5 @@ Modulul de gestiune se ocupa de Stocuri.
 Nomenclatorul de Produse
 Nomenclatorul de Preturi
 
-#Produse
+##Produse
 Nomenclatorul are coduri, denumire si pret.
