@@ -1,10 +1,7 @@
 ---
-title: Pagina 3
+title: Gestiune
 layout: home
 ---
 Cod
 
-{% highlight sql %}
-select top 10 * from nomencl
-{% endhighlight %}
-
+Modulul de gestiune se ocupa de Stocuri.
