@@ -2,6 +2,7 @@ title: ASiS docs
 description: Documentatie produs ASiSerp
 theme: just-the-docs
 search_enabled: true
+search.rel_url: false
 
 url: https://just-the-docs.github.io
 
