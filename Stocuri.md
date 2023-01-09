@@ -5,7 +5,7 @@ layout: home
 Cod
 
 
-## Gestiune
+## Modulul de stocuri
 
 Modulul de gestiune se ocupa de Stocuri.
 
