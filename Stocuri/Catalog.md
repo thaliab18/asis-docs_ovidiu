@@ -2,6 +2,7 @@
 title: Catalog
 layout: home
 parent: Stocuri
+nav_order: 2
 ---
 ## Nomenclator
 
