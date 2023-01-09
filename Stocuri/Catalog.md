@@ -1,6 +1,7 @@
 ---
 title: Catalog
 layout: home
+parent: Stocuri
 ---
 ## Nomenclator
 
