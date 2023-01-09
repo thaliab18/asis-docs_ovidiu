@@ -11,4 +11,4 @@ ASiS este un Sistem Informatic de tip ERP pentru companii medii și mari. ASiS-u
 
 Pentru familiarizare cu sintaxa de scriere [vezi aici ]([https://just-the-docs.github.io/just-the-docs/])
 
-[Pentru rulare click aici] (https://alfa-software-ro.github.io/asis-docs/)
+[Pentru rulare click aici] ([https://alfa-software-ro.github.io/asis-docs/])
