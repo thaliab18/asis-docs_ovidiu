@@ -13,3 +13,4 @@ Cataloagele de materii prime, materiale, produse sau servicii - poarta denumirea
 ![image](https://user-images.githubusercontent.com/4782181/211346347-d0f4e268-11bb-45f1-82fb-d09f5a10a83b.png)
 
 Codul este informatie unica.
+{: .note } Codul trebuie sa fie unic pentru un articol. El reprezinta o sorto-tipo-dimensiune.
